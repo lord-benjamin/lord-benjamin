@@ -1,3 +1,4 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Dhruv Arora</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
@@ -10,6 +11,8 @@
 👨‍💻 All of my projects are available at my [portfolio](https://dhruv-arora.vercel.app/)<br>
 📫 How to reach me **dhruvarora2612@gmail.com**<br>
 ⚡ Fun fact: I never stick to my plan :)<br>
+
+<img align="right" alt="Coder GIF" height=300 width=400 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
 
 ## 🌐 Socials:
 <p align="left">
@@ -36,7 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-benjamin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lord-benjamin&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=lord-benjamin&theme=discord&no-frame=false&no-bg=true&margin-w=10&column=7)
 
 ## 📛 Badges in Hacktoberfest'22:
 ### [![@lord_benjamin's Holopin board](https://holopin.me/lord_benjamin)](https://holopin.io/@lord_benjamin)
