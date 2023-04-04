@@ -13,17 +13,18 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://codepen.io/lord-benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lord-benjamin" height="30" width="40" /></a>
-<a href="https://dev.to/lordbenjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lordbenjamin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv-arora-legit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-arora-legit" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100076975973927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100076975973927" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruv_a_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_a_26" height="30" width="40" /></a>
-<a href="https://dribbble.com/lord_benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lord_benjamin" height="30" width="40" /></a>
+<a href="https://codepen.io/lord-benjamin" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/codepen-8-461781.png" alt="lord-benjamin" height="40" width="40" /></a>
+<a href="https://codesandbox.io/u/lord-benjamin" target="blank"><img align="center" src="https://images.saasworthy.com/codesandbox_12998_logo_1631778366_kenkz.png" alt="lord-benjamin" height="40" width="40" /></a>
+<a href="https://dev.to/lordbenjamin" target="blank"><img align="center" src="https://pipedream.com/s.v0/app_mArhYr/logo/orig" alt="lordbenjamin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/dhruv-arora-legit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dhruv-arora-legit" height="30" width="30" /></a>
+<a href="https://fb.com/profile.php?id=100076975973927" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="profile.php?id=100076975973927" height="30" width="30" /></a>
+<a href="https://instagram.com/dhruv_a_26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="dhruv_a_26" height="30" width="30" /></a>
+<a href="https://dribbble.com/lord_benjamin" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="lord_benjamin" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/lord_benjamin" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="lord_benjamin" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/lord_benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lord_benjamin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lord_benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lord_benjamin" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/lord-benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lord-benjamin" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lordbenjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lordbenjamin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lord_benjamin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="lord_benjamin" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/lord_benjamin" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="lord_benjamin" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/lord-benjamin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="lord-benjamin" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/lordbenjamin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="lordbenjamin" height="20" width="40" /></a>
 </p>
 
 ## 💻 Languages, Frameworks, and Tools:
