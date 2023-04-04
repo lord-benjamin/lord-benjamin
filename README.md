@@ -12,7 +12,7 @@
 📫 How to reach me **dhruvarora2612@gmail.com**<br>
 ⚡ Fun fact: I never stick to my plan :)<br>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
 
 ## 🌐 Socials:
 <p align="left">
