@@ -41,7 +41,9 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=lord-benjamin&theme=discord&no-frame=false&no-bg=true&margin-w=10&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lord-benjamin&theme=discord&no-frame=false&no-bg=true&margin-w=10&column=4"/>
+</p>
 
 ## 📛 Badges in Hacktoberfest'22:
 ### [![@lord_benjamin's Holopin board](https://holopin.me/lord_benjamin)](https://holopin.io/@lord_benjamin)
