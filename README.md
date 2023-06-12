@@ -5,8 +5,8 @@
 ---
 ## 💫 About Me:
 👨‍🎓 I'm currently an undergraduate student at Delhi Technological University (DTU), New Delhi, India<br>
-🔭 I’m working on some web development projects...<br>
-🌱 I’m currently learning data structures and algorithms and web development...<br>
+🔭 I’m working on some MERN projects...<br>
+🌱 I’m currently learning Next.JS and Tailwind CSS...<br>
 👯 I’m looking to collaborate on open-source projects and some hackathons...<br>
 👨‍💻 All of my projects are available at my [portfolio](https://dhruv-arora.vercel.app/)<br>
 📫 How to reach me **dhruvarora2612@gmail.com**<br>
