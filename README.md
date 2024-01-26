@@ -6,7 +6,7 @@
 ## 💫 About Me:
 👨‍🎓 I'm currently an undergraduate student at Delhi Technological University (DTU), New Delhi, India<br>
 🔭 I’m working on some MERN projects...<br>
-🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> and <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> ...<br>
+🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> , <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> and <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> ...<br>
 👯 I’m looking to collaborate on open-source projects and some hackathons...<br>
 👨‍💻 All of my projects are available at my <a href="https://dhruv-arora.vercel.app/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><br>
 📫 How to reach me: <a href="mailto:dhruvarora2612@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
@@ -20,7 +20,7 @@
 <a href="https://codesandbox.io/u/lord-benjamin" target="blank"><img align="center" src="https://images.saasworthy.com/codesandbox_12998_logo_1631778366_kenkz.png" alt="lord-benjamin" height="40" width="40" /></a>
 <a href="https://dev.to/lordbenjamin" target="blank"><img align="center" src="https://pipedream.com/s.v0/app_mArhYr/logo/orig" alt="lordbenjamin" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-arora-legit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dhruv-arora-legit" height="30" width="30" /></a>
-<a href="https://fb.com/profile.php?id=100076975973927" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="profile.php?id=100076975973927" height="30" width="30" /></a>
+<a href="https://facebook.com/dhrora26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="dhrora26" height="30" width="30" /></a>
 <a href="https://instagram.com/dhruv_a_26" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="dhruv_a_26" height="30" width="30" /></a>
 <a href="https://dribbble.com/lord_benjamin" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="lord_benjamin" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/lord_benjamin" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="lord_benjamin" height="30" width="30" /></a>
